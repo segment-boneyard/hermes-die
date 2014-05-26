@@ -1,7 +1,7 @@
 
 # hermes-die
 
-Kill Hermes.
+A [Hermes](http://segmentio.github.io/hermes) plugin that will kill the process, effectively killing Hermes himself.
 
 ## Installation
 
