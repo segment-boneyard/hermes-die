@@ -1,0 +1,19 @@
+{
+  "name": "hermes-die",
+  "description": "Kill Hermes.",
+  "repository": "git://github.com/segmentio/hermes-die.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x",
+    "hermes": "0.x"
+  },
+  "keywords": [
+    "hermes",
+    "plugin",
+    "chat",
+    "hubot"
+  ]
+}
